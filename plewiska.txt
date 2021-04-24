@@ -1,0 +1,328 @@
+48504176058:1357708035:Monika:Padurska:female:Plewiska::::4/21/2019 12-00-00 AM:moniiisia7557@gmail.com:::False:False:4/26/2019 6-21-03 PM:9/12/2010 12-00-00 AM
+48504242801:100000571769085:Faustyna:Lewandowska:female:Plewiska::::2/9/2018 12-00-00 AM::::False:False:4/26/2019 6-32-11 PM:12/27/2010 12-00-00 AM
+48504290305:100001434240060:S³awomir:Mitschke:male:Plewiska:Poznan, Poland:Married::4/10/2019 12-00-00 AM::::False:False:4/26/2019 6-38-01 PM:12/30/2010 12-00-00 AM
+48504314251:100003793356402:Nina:Karolak:female:Plewiska:Cieplice Œl¹skie Zdrój, Dolnoœl¹skie, Poland:Married:Philip Morris International:4/6/2019 12-00-00 AM::::False:False:4/26/2019 6-41-57 PM:8/16/2016 12-00-00 AM
+48504635760:100011174046158:Ma³gorzata:Talarowska:female:Plewiska:Strzegom:::4/17/2019 12-00-00 AM::::False:False:4/26/2019 7-02-01 PM:3/17/2016 12-00-00 AM
+48504771349:1052697865:Iwona:Bauza:female:Plewiska:Poznan, Poland:Married:LiNA Medical:4/16/2019 12-00-00 AM::::False:False:4/26/2019 7-11-08 PM:9/9/2010 12-00-00 AM
+48504796306:1627255384:Weronika:Bernaczyk:female:Plewiska:Poznan, Poland:Single::10/6/2018 12-00-00 AM::03/01/1989::False:False:4/26/2019 7-11-35 PM:9/27/2010 12-00-00 AM
+48504871862:100002060653388:Natalia:Wojciechowska:female:Plewiska:Poznan, Poland:Married::6/18/2017 12-00-00 AM::::False:False:4/26/2019 7-17-38 PM:2/17/2011 12-00-00 AM
+48505013680:100002751862707:Sebastian:Stêpkowski:male:Plewiska:Poznan, Poland:Married::4/20/2019 12-00-00 AM::::False:False:4/26/2019 7-33-51 PM:8/9/2011 12-00-00 AM
+48505023647:100001756906879:Rafa³:Œwirko:male:Plewiska:Poznan, Poland:Married::3/23/2019 12-00-00 AM::::False:False:4/26/2019 7-37-33 PM:11/2/2010 12-00-00 AM
+48505099293:1037640724:Monika:Ratajczak-Gabryszak:female:Plewiska:Witaszyce:Married:Supremo.pl:12/24/2018 12-00-00 AM::::False:False:4/26/2019 7-43-57 PM:12/31/2010 12-00-00 AM
+48505120433:100001554445524:Monika:Bartkowiak:female:Plewiska:Poznan, Poland::Przedszkole nr 91 "Bajka":4/6/2019 12-00-00 AM:::2004:False:False:4/26/2019 7-46-23 PM:2/23/2013 12-00-00 AM
+48505156557:1403918559:Karina:Adamska:female:Plewiska:Poznan, Poland:Married::4/25/2019 12-00-00 AM::::False:False:4/26/2019 7-51-58 PM:9/2/2010 12-00-00 AM
+48505277929:100005601761628:Roman:Lipiecki:male:Poznan, Poland:Plewiska:In a relationship:WebCar Service Skrzynie Biegów Dawid Weber:3/25/2019 12-00-00 AM::::False:False:4/26/2019 8-04-04 PM:4/12/2013 12-00-00 AM
+48505436177:100001424546812:Kamil:Leszczak:male:Plewiska:Szczecinek:Married::9/6/2018 12-00-00 AM::::False:False:4/26/2019 10-24-37 PM:9/4/2010 12-00-00 AM
+48505837791:100003389567692:Wojciech:Œwierczyk:male:Plewiska::::4/15/2019 12-00-00 AM::::False:False:4/27/2019 5-26-57 AM:1/22/2012 12-00-00 AM
+48505859099:100003887853681:Natalia:Pieœniewska:female:Plewiska:Poznan, Poland:::12/11/2018 12-00-00 AM::::False:False:4/27/2019 5-27-10 AM:8/9/2015 12-00-00 AM
+48506066770:100005956832182:Roman:Kalu¿ny:male:Poznan, Poland:Plewiska:::4/13/2018 12-00-00 AM::::False:False:4/27/2019 5-31-50 AM:6/20/2013 12-00-00 AM
+48506546098:100001184795774:Micha³:Wachminski:male:Poznan, Poland:Plewiska::ATREM S.A.:8/2/2018 12-00-00 AM::08/03/1979::False:False:4/27/2019 5-42-30 AM:4/24/2011 12-00-00 AM
+48506647844:1281514305:Marcin:Matuszak:male:Plewiska:Piaski, Leszno, Poland:Married:Volkswagen Poznañ - Fabryka Samochodów U¿ytkowych i Komponentów:10/30/2018 12-00-00 AM::::False:False:4/27/2019 5-43-41 AM:8/24/2010 12-00-00 AM
+48507180646:100002985773470:Katarzyna:Padurska:female:Plewiska:Poznan, Poland:::4/21/2019 12-00-00 AM::::False:False:4/27/2019 5-56-35 AM:9/27/2011 12-00-00 AM
+48507442211:100002061736468:Hubert:Grajczak:male:Plewiska:Poznan, Poland::Wydawnictwo Publicat:4/15/2019 12-00-00 AM::::False:False:4/27/2019 6-02-04 AM:2/19/2011 12-00-00 AM
+48507449522:100005175125760:Paulina:Kacprzak:female:Plewiska:Poznan, Poland:Single::1/24/2019 12-00-00 AM::::False:False:4/27/2019 6-01-12 AM:2/2/2013 12-00-00 AM
+48508126117:100013182240929:Dawid:Nowak:male:Plewiska::::9/13/2018 12-00-00 AM::::False:False:4/27/2019 6-13-03 AM:8/7/2016 12-00-00 AM
+48508126234:100004382986566:Miros³awa:Cielejewska:female:Plewiska::Married::3/20/2018 12-00-00 AM::::False:False:4/27/2019 6-13-03 AM:6/14/2014 12-00-00 AM
+48508163971:100002054824007:Dariusz:£ukaszewski::Plewiska:Poznan, Poland:Single::4/20/2019 12-00-00 AM::::False:False:4/27/2019 6-13-46 AM:5/14/2011 12-00-00 AM
+48508229429:1090598482:Aleksandra:Chutko:female:Plewiska:Wa³cz:Married:Teampower:3/26/2019 12-00-00 AM::::False:False:4/27/2019 6-16-15 AM:9/11/2010 12-00-00 AM
+48508297307:100010750802266:Szymon:Szeferski:male:Plewiska:Poznan, Poland::DDK Edition:4/20/2019 12-00-00 AM::::False:False:4/27/2019 6-18-00 AM:11/18/2015 12-00-00 AM
+48508375373:100000362072420:Magdalena:Kotarska:female:Plewiska:Poznan, Poland:Married::4/11/2017 12-00-00 AM::::False:False:4/27/2019 6-19-57 AM:9/16/2010 12-00-00 AM
+48508454243:100000412275275:Martyna:£akoma:female:Plewiska:Poznan, Poland:::4/12/2019 12-00-00 AM::::False:False:4/27/2019 6-21-31 AM:9/2/2010 12-00-00 AM
+48508800771:100001837655217:Micha³:Tadyszak:male:Poznan, Poland:Poznan, Poland:Engaged:Sok T³oczony "Plewiska":7/2/2018 12-00-00 AM::::False:False:4/27/2019 6-27-13 AM:4/21/2011 12-00-00 AM
+48509065094:100001266705032:Bo¿ena:Nowak::Plewiska::::4/5/2019 12-00-00 AM::::False:False:4/27/2019 6-31-20 AM:4/23/2011 12-00-00 AM
+48509119138:100001641690973:Marta:Wojewódzka:female:Plewiska:Poznan, Poland:Married::4/23/2019 12-00-00 AM:marta.klimek86@wp.pl:09/11/1986::False:False:4/27/2019 6-32-42 AM:10/18/2010 12-00-00 AM
+48509202987:100004850974871:Krzysztof:Pellowski:male:Plewiska:Poznan, Poland:::3/3/2018 12-00-00 AM::::False:False:4/27/2019 6-34-09 AM:12/13/2012 12-00-00 AM
+48509207509:100012706213498:Agnieszka:Wawrzyniak:female:Plewiska::Married::8/29/2018 12-00-00 AM::::False:False:4/27/2019 6-34-33 AM:7/9/2016 12-00-00 AM
+48509207736:1326543781:£ukasz:Sobierajczyk:male:Plewiska:Wagrowiec:::3/31/2019 12-00-00 AM::::False:False:4/27/2019 6-34-33 AM:9/11/2010 12-00-00 AM
+48509261884:100006515747597:Aleksandra:Pieczyñska:female:Plewiska:Sroda Wielkopolska::Auxilium- Fizjoterapia:1/24/2019 12-00-00 AM::::False:False:4/27/2019 6-35-55 AM:9/15/2013 12-00-00 AM
+48509360212:100001397713373:Miko³aj:Szymczak:male:Poznan, Poland:Kalisz, Kalisz, Poland::Szko³a Podstawowa nr 2 w Plewiskach:4/25/2019 12-00-00 AM::::False:False:4/27/2019 6-38-19 AM:4/17/2011 12-00-00 AM
+48509461032:100001563785246:Eliza:M¹czyñska:female:Plewiska:Komorniki::Valeant:2/24/2019 12-00-00 AM::::False:False:4/27/2019 6-41-00 AM:9/14/2010 12-00-00 AM
+48509592323:100017817486943:Iwona:Mania:female:Plewiska:Mosina:::8/11/2018 12-00-00 AM::::False:False:4/27/2019 6-44-18 AM:6/25/2017 12-00-00 AM
+48509610959:100002132225099:Adam:Brzeziñski:male:Plewiska:Poznan, Poland:Married:Fire-Pro Sp z oo:11/20/2015 12-00-00 AM::::False:False:4/27/2019 6-44-47 AM:3/2/2011 12-00-00 AM
+48509686690:100001518329049:Grzegorz:Koz³owski:male:Plewiska:Poznan, Poland::Gunnex PL:12/27/2018 12-00-00 AM::::False:False:4/27/2019 6-46-39 AM:11/7/2011 12-00-00 AM
+48509693993:100000004707691:Ilona:R-k:female:Plewiska:Lukow:::11/5/2018 12-00-00 AM::::False:False:4/27/2019 6-46-48 AM:4/21/2011 12-00-00 AM
+48510034727:100001213758881:Tom:Wolo:male:Plewiska:Poznan, Poland::U Siebie):4/25/2019 12-00-00 AM::::False:False:4/26/2019 8-12-44 PM:9/29/2010 12-00-00 AM
+48510185146:1596346718:Krzysztof:Skibicki:male:Plewiska:Poznan, Poland::Robocik.eu  - Edukacja poprzez zabawê.:4/21/2019 12-00-00 AM::::False:False:4/26/2019 10-37-03 PM:9/27/2010 12-00-00 AM
+48510310375:100000775431135:Magdalena:Przybylska:female:Plewiska:Poznan, Poland:::3/23/2019 12-00-00 AM::::False:False:4/26/2019 10-54-20 PM:9/5/2010 12-00-00 AM
+48510520066:100004242451795:Gosia:Pajor:female:Plewiska:Poznan, Poland:::2/18/2019 12-00-00 AM::::False:False:4/26/2019 11-04-09 PM:8/22/2012 12-00-00 AM
+48510840057:100002351812439:Bartosz:Derdziak:male:Plewiska:Poznan, Poland::FHUT Bartex Bartosz Derdziak:2/8/2019 12-00-00 AM:::2007:False:False:4/26/2019 11-19-14 PM:5/1/2011 12-00-00 AM
+48511457366:100001996827634:Ma³gorzata:Szajkowska:female:Plewiska:Obrzycko:Married:Lidl Polska:12/30/2018 12-00-00 AM::::False:False:4/26/2019 11-56-55 PM:2/6/2011 12-00-00 AM
+48511721295:100006756583741:Renata:£ukasiewicz:female:Plewiska:Poznan, Poland:In a relationship::4/13/2019 12-00-00 AM::::False:False:4/27/2019 12-12-49 AM:1/15/2014 12-00-00 AM
+48512481151:100007413755929:Sebastian:Walkowiak:male:Komorniki:Plewiska:Married:w³asna dzia³alnoœæ:12/8/2018 12-00-00 AM::::False:False:4/27/2019 1-06-54 AM:12/28/2013 12-00-00 AM
+48512715321:100012857139721:¯uraw:Szczêœcia:female:Plewiska::::7/19/2016 12-00-00 AM::::False:False:4/27/2019 1-25-51 AM:7/19/2016 12-00-00 AM
+48512869054:100003601843350:Weronika:Ma³ecka:female:Plewiska:Poznan, Poland:::7/21/2016 12-00-00 AM::::False:False:4/27/2019 1-41-01 AM:3/11/2012 12-00-00 AM
+48512989566:100001461008911:Rafa³:Olejniczak:male:Plewiska:Poznan, Poland:::12/13/2018 12-00-00 AM::::False:False:4/27/2019 1-51-27 AM:9/1/2010 12-00-00 AM
+48513148757:100003217627432:Kamil:Sar:male:Plewiska:Poznan, Poland:Single::1/19/2019 12-00-00 AM::::False:False:4/27/2019 2-00-33 AM:7/21/2012 12-00-00 AM
+48513348352:691437468:Ewa:Malarska:female:Plewiska:Poznan, Poland:::3/31/2019 12-00-00 AM::::False:False:4/27/2019 2-15-46 AM:9/8/2010 12-00-00 AM
+48513795763:100004194611502:Dawid:B³aszczyk:male:Plewiska:Poznan, Poland::Solaris Bus & Coach:6/23/2017 12-00-00 AM::::False:False:4/27/2019 2-41-37 AM:8/21/2012 12-00-00 AM
+48513910348:100004171381966:Norbert:Maækowiak:male:Plewiska:Poznan, Poland:Married:Grausch i Grausch:4/25/2019 12-00-00 AM::09/10/1976::False:False:4/27/2019 2-42-44 AM:7/29/2012 12-00-00 AM
+48513989900:100001633705975:Bartek:Sójka:male:Plewiska:Poznan, Poland:Single::11/4/2018 12-00-00 AM::::False:False:4/27/2019 2-44-26 AM:12/11/2010 12-00-00 AM
+48514081052:100012798759231:Dorota:Nader¿a:female:Plewiska:Poznan, Poland:::5/16/2018 12-00-00 AM::::False:False:4/27/2019 2-51-00 AM:9/21/2017 12-00-00 AM
+48514731152:100004692754558:Agata:Stachowiak:female:Plewiska:Poznan, Poland:Single::8/21/2018 12-00-00 AM::::False:False:4/27/2019 3-31-33 AM:11/10/2012 12-00-00 AM
+48515052840:100002217751379:Marcin:Guzek:male:Plewiska:Poznan, Poland::Fortec Strykowo:3/23/2019 12-00-00 AM::::False:False:4/27/2019 4-05-03 AM:4/25/2011 12-00-00 AM
+48515154075:100002105030503:Bartosz:Jêœko:male:Plewiska:Poznan, Poland::Poznan, Poland:12/27/2018 12-00-00 AM::::False:False:4/27/2019 4-07-40 AM:2/21/2011 12-00-00 AM
+48515586197:100027904179006:Danuta:Kubacka:female:Plewiska::::4/13/2019 12-00-00 AM::::False:False:4/27/2019 4-34-53 AM:9/17/2018 12-00-00 AM
+48516153695:100001393281530:Ewelina:Jarusz:female:Plewiska:Górka Duchowna:Married:Miejski Oœrodek Pomocy Rodzinie w Poznaniu:7/22/2018 12-00-00 AM::::False:False:4/27/2019 4-42-04 AM:11/10/2010 12-00-00 AM
+48516219869:100018953592197:Miko³aj:Budny:male:Plewiska:Poznan, Poland:Single:Szlachta nie pracuje:4/23/2019 12-00-00 AM::::False:False:4/27/2019 4-43-29 AM:7/4/2017 12-00-00 AM
+48516611199:1779411643:Mateusz:Gajewski:male:Plewiska:Poznan, Poland:Engaged:W³asna dzia³alnoœæ:4/18/2019 12-00-00 AM::06/11/1992::False:False:4/27/2019 4-47-12 AM:9/2/2010 12-00-00 AM
+48516675133:100004446875598:Marcin:Góralik:male:Plewiska:Poznan, Poland:::6/15/2018 12-00-00 AM::02/20/1999::False:False:4/27/2019 4-48-17 AM:10/3/2012 12-00-00 AM
+48516848363:100004406625841:Jan:£ubiñski:male:Plewiska:Poznan, Poland:::8/15/2018 12-00-00 AM::::False:False:4/27/2019 4-50-12 AM:7/8/2014 12-00-00 AM
+48517257188:100002816721371:Joanna:Wojciechowska:female:Plewiska:Poznan, Poland::biuro rachunkowe:4/23/2019 12-00-00 AM::::False:False:4/27/2019 4-54-31 AM:8/29/2011 12-00-00 AM
+48517442460:100000496967468:Danka:Gozdera:female:Plewiska:::Danka Gozdera Fotografia:3/17/2019 12-00-00 AM:::2005:False:False:4/27/2019 4-56-44 AM:9/21/2010 12-00-00 AM
+48517898454:100000929829674:Dagmara:¯urkiewicz-Wieczorek:female:Plewiska::Married::2/17/2019 12-00-00 AM::::False:False:4/27/2019 5-01-49 AM:9/4/2010 12-00-00 AM
+48518414107:100000827385744:Mariusz:Górczak:male:Plewiska:Poznan, Poland:::7/20/2017 12-00-00 AM::::False:False:4/27/2019 5-06-41 AM:9/3/2010 12-00-00 AM
+48518805999:100005987987679:Pola:Jaruszewicz:female:Plewiska:Namys³ow, Opole, Poland:::4/25/2019 12-00-00 AM::06/21::False:False:4/27/2019 5-10-30 AM:7/6/2014 12-00-00 AM
+48519033997:100009641956511:Theo:Jammes:male:Plewiska:Poznan, Poland:::12/4/2016 12-00-00 AM::::False:False:4/27/2019 5-12-15 AM:7/10/2015 12-00-00 AM
+48519131906:100007007683591:Ma³gorzata:Kostrzyñska:female:Plewiska:Poznan, Poland:Widowed::4/22/2019 12-00-00 AM::::False:False:4/27/2019 5-14-00 AM:11/11/2013 12-00-00 AM
+48530180804:100001334911425:Joanna:Mañczak::Plewiska:Poznan, Poland::Sport & Beauty Fabianowo:4/14/2019 12-00-00 AM::::False:False:4/26/2019 10-50-59 AM:8/23/2010 12-00-00 AM
+48530621442:100002158324901:Karol:Sar::Plewiska:Poznan, Poland:::2/14/2019 12-00-00 AM::::False:False:4/26/2019 10-59-03 AM:3/2/2011 12-00-00 AM
+48530885088:100002015036256:Dariusz:G³odek:male:Piatkowo, Poznañ, Poland:Poznan, Poland::Poznan Plewiska:3/26/2019 12-00-00 AM::::False:False:4/26/2019 11-02-41 AM:2/9/2011 12-00-00 AM
+48531238466:100011202454195:Anna:Staciukowicz:female:Plewiska:Mys³owice:Married::4/12/2019 12-00-00 AM::::False:False:4/26/2019 11-06-57 AM:1/20/2016 12-00-00 AM
+48531405744:100001202348823:Gracjan:Schmidt:male:Plewiska:Poznan, Poland::Klub Czekolada Poznañ:7/13/2018 12-00-00 AM::::False:False:4/26/2019 11-09-24 AM:4/21/2011 12-00-00 AM
+48531478432:100001187979254:Kamil:Kostrzewski:male::Plewiska:In a relationship::9/4/2018 12-00-00 AM::::False:False:4/26/2019 11-10-40 AM:9/8/2010 12-00-00 AM
+48532363298:100004066350210:Anna:Wozniak:female:Plewiska::::3/24/2019 12-00-00 AM::::False:False:4/26/2019 11-18-01 AM:9/20/2012 12-00-00 AM
+48534683979:100033970194052:Kotek:S³otki:female:Plewiska:Gubin, Poland:In a relationship:YouTube:2/20/2019 12-00-00 AM::::False:False:4/26/2019 11-37-20 AM:2/20/2019 12-00-00 AM
+48534919316:100033398592620:Magda:Janukowicz:female:Plewiska::::3/24/2019 12-00-00 AM::::False:False:4/26/2019 11-39-59 AM:1/27/2019 12-00-00 AM
+48535042179:100006641084081:£ukasz:Owczarzak:male:Plewiska:Poznan, Poland:::11/14/2017 12-00-00 AM::::False:False:4/26/2019 11-41-38 AM:10/4/2013 12-00-00 AM
+48535071279:100010638196161:Anna:Zygmann:female:Plewiska::Married::4/22/2019 12-00-00 AM::::False:False:4/26/2019 11-41-22 AM:11/20/2015 12-00-00 AM
+48535148188:100008742159667:Gra¿yna:Banaszak:female:Plewiska:Góra:::4/22/2019 12-00-00 AM::::False:False:4/26/2019 11-42-54 AM:4/5/2015 12-00-00 AM
+48535213214:100001177043185:Jakub:Henke:male:Plewiska:Poznan, Poland:In a relationship:Twitch:1/26/2019 12-00-00 AM::::False:False:4/26/2019 11-43-49 AM:10/7/2010 12-00-00 AM
+48535463603:100003998201705:Marcin:Czarczyñski:male:Plewiska:Poznan, Poland:::4/24/2019 12-00-00 AM:czarczynski.m@outlook.com:04/28/1993::False:False:4/26/2019 11-47-12 AM:6/12/2012 12-00-00 AM
+48535482040:100027999892791:Kacper:Konieczny:male::Plewiska:::1/23/2019 12-00-00 AM::::False:False:4/26/2019 11-47-07 AM:8/23/2018 12-00-00 AM
+48535508850:1429089217:Hubert:Przyborowski:male:Plewiska::::2/10/2018 12-00-00 AM::::False:False:4/26/2019 11-47-33 AM:9/28/2010 12-00-00 AM
+48536311222:100001020220920:Alina:Seal:female:Plewiska:Poznan, Poland:Married::4/20/2019 12-00-00 AM::::False:False:4/26/2019 11-56-56 AM:9/3/2010 12-00-00 AM
+48536567377:100000884755363:Agnieszka:Ciesielska:female:Plewiska::Married:Œniadalnia / Fit Bar:3/23/2019 12-00-00 AM::::False:False:4/26/2019 11-58-08 AM:10/13/2010 12-00-00 AM
+48537033193:100010886059459:Mateusz:Kowalewski:male:Plewiska:Poznan, Poland:::11/10/2018 12-00-00 AM::::False:False:4/26/2019 12-02-25 PM:1/28/2017 12-00-00 AM
+48537239711:100001268027152:Bartosz:Pytlik:male:Plewiska:Jaros³aw, Przemyœl, Poland:In a relationship::12/31/2018 12-00-00 AM::::False:False:4/26/2019 12-03-55 PM:8/21/2016 12-00-00 AM
+48537703888:100003189794712:Adam:Styza:male:Plewiska:Jezyce, Poznañ, Poland:Married::2/26/2019 12-00-00 AM::::False:False:4/26/2019 12-07-58 PM:11/17/2011 12-00-00 AM
+48539620064:100001709831485:Grzesiek:Tomaszewski:male:Plewiska:Krzyz, Pila, Poland:In a relationship:Amazon Poland:4/26/2019 12-00-00 AM::01/08/1993::False:False:4/26/2019 12-15-02 PM:10/13/2010 12-00-00 AM
+48600176619:100000248248694:Paulina:Witkowska:female:Plewiska:Plewiska::Oney Polska:1/23/2019 12-00-00 AM:::2014:False:False:4/26/2019 8-19-53 AM:1/2/2011 12-00-00 AM
+48600274613:100000422281751:Kamila:Kostka:female:Plewiska:Poznan, Poland::Lyreco:12/11/2018 12-00-00 AM::::False:False:4/26/2019 8-23-49 AM:8/24/2010 12-00-00 AM
+48600292266:100001742598713:Jessica:Skweres:female:Gniezno, Poland:Plewiska:Married::3/8/2019 12-00-00 AM:jessicamanczak@wp.pl:12/22::False:False:4/26/2019 8-23-28 AM:11/7/2010 12-00-00 AM
+48600540374:100035113209061:Maciej:Janik:male:Plewiska:Szreniawa, Poznañ, Poland:In a relationship::4/2/2019 12-00-00 AM::::False:False:4/26/2019 8-31-52 AM:3/25/2019 12-00-00 AM
+48600755762:100001021251399:Agata:Schreiber-Leœny::Plewiska:Poznan, Poland:::1/20/2019 12-00-00 AM::::False:False:4/26/2019 8-36-01 AM:9/6/2010 12-00-00 AM
+48600918435:100014804823166:Jaros³aw:Sarna:male:Plewiska:Poznan, Poland:::3/31/2018 12-00-00 AM::::False:False:4/26/2019 8-40-13 AM:1/6/2017 12-00-00 AM
+48601093058:100000945621589:Damian:KaŸmierczak:male:Plewiska:Pudliszki::Arvato Bertelsmann:4/7/2019 12-00-00 AM::01/09:2004:False:False:4/26/2019 8-44-39 AM:2/26/2011 12-00-00 AM
+48601293532:100001415327765:Agnieszka:Aga::Plewiska:::Fundacja Naszych Dzieci:2/24/2019 12-00-00 AM::::False:False:4/26/2019 8-50-16 AM:9/4/2010 12-00-00 AM
+48601376294:100003106184581:Ewa:Juskowiak:female:Plewiska:Poznan, Poland:Married:Kariera w Grupie Eurocash:4/21/2019 12-00-00 AM::::False:False:4/26/2019 8-54-23 AM:11/2/2011 12-00-00 AM
+48601550521:100000708300651:Radek:Jurkowski:male:Plewiska:Szczecin, Poland::Hochland:10/28/2018 12-00-00 AM::::False:False:4/26/2019 9-00-38 AM:8/23/2010 12-00-00 AM
+48601565864:1100890524:Marta:Stankowska:female:Plewiska:Rawicz:::3/17/2019 12-00-00 AM::::False:False:4/26/2019 9-00-53 AM:12/27/2010 12-00-00 AM
+48601669985:100006372287851:Justyna:Cieœlik:female:Plewiska:Pu³awy:Married::11/19/2016 12-00-00 AM::::False:False:4/26/2019 9-04-35 AM:12/1/2014 12-00-00 AM
+48601709443:1025934928:Krzysztof:Szal:male:Plewiska:Poznan, Poland:::11/24/2018 12-00-00 AM::::False:False:4/26/2019 9-05-20 AM:9/2/2010 12-00-00 AM
+48601787434:100001068090973:Bogus³awa:Kierojczyk:female:Lubon:Jankowice, Poznañ, Poland:In a relationship:Plewiska:4/21/2019 12-00-00 AM::::False:False:4/26/2019 9-08-20 AM:2/23/2011 12-00-00 AM
+48601846355:1489112658:Pawel:Fajdek:male:Plewiska:Starachowice:Married:Self-Employed:4/16/2019 12-00-00 AM::::False:False:4/26/2019 9-10-07 AM:8/23/2010 12-00-00 AM
+48601871647:100001512038779:Agnieszka:Szofer:female:Plewiska:Poznan, Poland:Married:Santander Bank Polska:1/18/2019 12-00-00 AM::::False:False:4/26/2019 9-11-13 AM:9/29/2010 12-00-00 AM
+48601978982:100001409282444:Joanna:Plenzler:female:Plewiska:Poznan, Poland:::6/2/2017 12-00-00 AM::::False:False:4/26/2019 9-14-36 AM:4/26/2011 12-00-00 AM
+48602151884:100001349330916:Piotr:Oses::Plewiska:Poznan, Poland::Platinum Palace Residence & Apartments:4/11/2019 12-00-00 AM::::False:False:4/26/2019 9-16-39 AM:4/25/2011 12-00-00 AM
+48602222147:100002355157673:Przemys³aw:Boruszak:male:Plewiska::::3/29/2019 12-00-00 AM::::False:False:4/26/2019 9-19-03 AM:1/11/2012 12-00-00 AM
+48602235346:100001719153574:Lidia:Ga::Plewiska::::12/30/2018 12-00-00 AM::::False:False:4/26/2019 9-19-35 AM:10/14/2011 12-00-00 AM
+48602351884:100001545497418:Artur:Pa³czyñski:male:Plewiska:Poznan, Poland:::4/24/2019 12-00-00 AM::::False:False:4/26/2019 9-24-55 AM:8/31/2010 12-00-00 AM
+48602383897:100001125542617:Tomek:Dolata:male:Plewiska:Poznan, Poland:::2/7/2019 12-00-00 AM::::False:False:4/26/2019 9-25-30 AM:8/25/2010 12-00-00 AM
+48602413084:100004192001014:Jakub:Cegie³a:male:Plewiska:Srem, Poland:Married:Getinge Infection Control:9/19/2018 12-00-00 AM::::False:False:4/26/2019 9-26-36 AM:8/12/2015 12-00-00 AM
+48602413212:100001756906879:Rafa³:Œwirko:male:Plewiska:Poznan, Poland:Married::3/23/2019 12-00-00 AM::::False:False:4/26/2019 9-26-36 AM:11/2/2010 12-00-00 AM
+48602438887:100002540799946:Nicole:Klimek:female:Plewiska:Jezyce, Poznañ, Poland:Single::4/10/2019 12-00-00 AM::::False:False:4/26/2019 9-27-19 AM:6/7/2011 12-00-00 AM
+48602643757:100003292244091:Tomasz:Bryczkowski:male:Plewiska:Poznan, Poland:Married::1/4/2018 12-00-00 AM::::False:False:4/26/2019 9-34-02 AM:12/21/2011 12-00-00 AM
+48602679827:100001896408371:Alik:Sieczkowski:male:Plewiska:Poznan, Poland:::11/30/2018 12-00-00 AM::::False:False:4/26/2019 9-35-36 AM:11/23/2010 12-00-00 AM
+48602836047:100007988565069:Wac³aw:Padurski:male:Plewiska::::1/1/0001 12-00-00 AM::::False:False:4/26/2019 9-40-46 AM:1/1/0001 12-00-00 AM
+48602853853:100007067702653:Roman:Czerniejewski:male:Plewiska:S³upca::PZU SA:1/4/2018 12-00-00 AM::::False:False:4/26/2019 9-41-15 AM:11/8/2013 12-00-00 AM
+48603033067:100009374896743:Aleksandra:KA:male:Plewiska::::4/16/2019 12-00-00 AM::::False:False:4/26/2019 9-42-03 AM:4/21/2015 12-00-00 AM
+48603067685:100000684497923:Iwona:Paczkowska-Œmigaj:female:Plewiska:Drezdenko:Married:Dr Spil Polska:3/1/2019 12-00-00 AM::::False:False:4/26/2019 9-43-20 AM:9/16/2010 12-00-00 AM
+48603301883:100011706367037:Cyprian:Wojtczak:male:Plewiska:Barcin:Married::4/20/2019 12-00-00 AM::::False:False:4/26/2019 9-49-16 AM:4/1/2016 12-00-00 AM
+48603321072:100001373571117:Agnieszka:£opiñska:female:Plewiska::In a relationship:INVEST BANK SA:3/27/2014 12-00-00 AM::::False:False:4/26/2019 9-50-49 AM:9/2/2010 12-00-00 AM
+48603344511:100004492326986:Krzysztof:Kilanowski:male:Plewiska:Poznan, Poland:::9/4/2018 12-00-00 AM::::False:False:4/26/2019 9-50-49 AM:10/14/2012 12-00-00 AM
+48603580420:100001042463942:Marta:Rzepczyñska:female:Plewiska:Konin, Poland:Married::9/16/2017 12-00-00 AM::::False:False:4/26/2019 9-56-07 AM:4/23/2011 12-00-00 AM
+48603669825:100002145149109:Agata:Witkowska:female:Plewiska:Poznan, Poland:Married::8/5/2018 12-00-00 AM::::False:False:4/26/2019 9-59-07 AM:11/1/2015 12-00-00 AM
+48603675150:100001870649165:Katarzynnaa:Sêk:female:Plewiska:Puszczykowo:Married::3/16/2019 12-00-00 AM::::False:False:4/26/2019 9-59-26 AM:4/23/2011 12-00-00 AM
+48603678847:100029000410324:Jan:Broda:male:Plewiska:Plewiska:Married::10/2/2018 12-00-00 AM::::False:False:4/26/2019 9-59-26 AM:10/2/2018 12-00-00 AM
+48603724806:100005808106145:Micha³:Duda:male:Plewiska:Poznan, Poland:::8/24/2017 12-00-00 AM::::False:False:4/26/2019 10-00-29 AM:5/19/2014 12-00-00 AM
+48603744563:100003069203038:Mariusz:Mendlewski:male:Plewiska:Murowana Goslina:Married::3/31/2019 12-00-00 AM::::False:False:4/26/2019 10-00-32 AM:10/21/2011 12-00-00 AM
+48603912667:100001467876261:Beata:Rogowicz-Kubiak:female:Plewiska:Skórzewo, Poznañ, Poland:Married:Szko³a Podstawowa im. Fryderyka Chopina w Skórzewie:12/25/2018 12-00-00 AM::::False:False:4/26/2019 10-05-19 AM:9/2/2010 12-00-00 AM
+48603964045:100001108758523:Artur:Tomiak:male:Plewiska:Czapury:::3/2/2019 12-00-00 AM::::False:False:4/26/2019 10-06-23 AM:9/3/2010 12-00-00 AM
+48604086131:100003108576706:Kacper:Winiecki:male:Plewiska:Poznan, Poland:::12/17/2018 12-00-00 AM::::False:False:4/26/2019 10-08-47 AM:10/30/2011 12-00-00 AM
+48604252367:1470105473:Gra¿yna:Korzeniewska:female:Plewiska:Legnica, Poland:In a relationship:Lidl Polska:1/7/2019 12-00-00 AM::::False:False:4/26/2019 10-14-03 AM:9/5/2010 12-00-00 AM
+48604342480:100002301000385:Rados³aw:Patkowski:male:Plewiska:Wa³cz:::4/14/2019 12-00-00 AM::::False:False:4/26/2019 10-16-17 AM:9/2/2012 12-00-00 AM
+48604387992:100006490869384:Zosia:Schreiber:female:Plewiska:Poznan, Poland:::4/14/2019 12-00-00 AM::::False:False:4/26/2019 10-17-50 AM:8/9/2013 12-00-00 AM
+48604472202:100002955138894:Justyna:Korek:female:Plewiska:Inowroc³aw:Married::2/20/2019 12-00-00 AM::::False:False:4/26/2019 10-19-55 AM:11/30/2011 12-00-00 AM
+48604500514:100028272651949:Monika:Kaiser:female:Plewiska::::1/1/0001 12-00-00 AM::::False:False:4/26/2019 10-20-39 AM:1/1/0001 12-00-00 AM
+48604550206:100007117507011:Leszek:Przyby³:male:Plewiska:Poznan, Poland:::6/23/2014 12-00-00 AM::::False:False:4/26/2019 10-22-29 AM:11/21/2013 12-00-00 AM
+48604578615:100000133225857:Gosia:Pondi:female:Plewiska:Poznan, Poland:::4/25/2019 12-00-00 AM::::False:False:4/26/2019 10-24-02 AM:9/23/2010 12-00-00 AM
+48604643060:100035239472996:Ewa:Adamczak:female:Plewiska:Obornik, Poznañ, Poland:::1/1/0001 12-00-00 AM::::False:False:4/26/2019 10-25-21 AM:1/1/0001 12-00-00 AM
+48604956554:100000897799258:Maciej:Nowak:male:Plewiska:Poznan, Poland:::4/20/2018 12-00-00 AM::::False:False:4/26/2019 10-32-56 AM:1/17/2012 12-00-00 AM
+48605164963:100010581390689:El¿bieta:Krzemieniewska:female:Plewiska:Konin, Poznañ, Poland:::4/20/2019 12-00-00 AM::::False:False:4/26/2019 10-37-53 AM:10/26/2015 12-00-00 AM
+48605277473:100012613327700:Agnieszka:Terka:female:Plewiska:Poznan, Poland:Widowed::1/23/2019 12-00-00 AM::::False:False:4/26/2019 10-41-59 AM:4/15/2017 12-00-00 AM
+48605493636:1118073525:Mateusz:Oracz::Plewiska:Poznan, Poland:::4/23/2019 12-00-00 AM::::False:False:4/26/2019 10-46-56 AM:9/10/2010 12-00-00 AM
+48605550300:100001116540029:Tomasz:Maszner:male:Plewiska:Poznan, Poland:Married::4/9/2019 12-00-00 AM::::False:False:4/26/2019 10-48-21 AM:8/19/2012 12-00-00 AM
+48605643363:100000442150661:Karolina:Bartczak:female:Plewiska:Poznan, Poland:Married::4/10/2019 12-00-00 AM::::False:False:4/27/2019 9-45-34 AM:9/4/2010 12-00-00 AM
+48605661927:100010568922165:Iza:Arent:female:Plewiska::::4/11/2019 12-00-00 AM::::False:False:4/27/2019 9-46-17 AM:4/28/2017 12-00-00 AM
+48605723773:100001756972918:Katarzyna:Sosnowska-Brud³o:female:Plewiska:Poznan, Poland:::3/24/2019 12-00-00 AM::::False:False:4/27/2019 9-47-19 AM:4/6/2011 12-00-00 AM
+48606103333:100001076361247:Piotr:Myœliwiec:male:Plewiska:Tykocin:In a relationship::4/1/2019 12-00-00 AM::::False:False:4/27/2019 9-52-28 AM:9/4/2010 12-00-00 AM
+48606175430:100002164093285:Micha³:Gra¿yñski:male:Poznan, Poland:Poznan, Poland:Engaged:Centrum Logistyczne ¯abka Polska w Plewiskach:7/30/2018 12-00-00 AM::::False:False:4/27/2019 9-54-03 AM:4/27/2011 12-00-00 AM
+48606220699:100001896761068:Katarzyna:Hadyñska:female:Plewiska:Poznan, Poland:Married:KMP POZNAÑ:4/24/2019 12-00-00 AM:::1997:False:False:4/27/2019 9-55-08 AM:11/17/2010 12-00-00 AM
+48606262070:100004152813277:Piotr:Kise³ek:male:Plewiska::::7/4/2018 12-00-00 AM::::False:False:4/27/2019 9-56-38 AM:8/1/2012 12-00-00 AM
+48606341770:100000626467432:Wojt:Kas-przak:male:Plewiska:Jezyce, Poznañ, Poland:::4/22/2019 12-00-00 AM::::False:False:4/27/2019 9-59-00 AM:9/4/2010 12-00-00 AM
+48606379903:100002583678563:Szymon:Szmidt:male:Plewiska::::10/10/2017 12-00-00 AM::::False:False:4/27/2019 10-00-34 AM:7/7/2011 12-00-00 AM
+48606400181:100001545759445:Agnieszka:Matusiak:female:Plewiska:Poznan, Poland:Married:Poczta Polska:2/11/2019 12-00-00 AM:::2004:False:False:4/27/2019 10-01-09 AM:8/24/2010 12-00-00 AM
+48606444468:100013952046710:Hania:Zab³ocka:female:Plewiska:Poznan, Poland:Single:Szlachta nie pracuje:10/19/2018 12-00-00 AM::::False:False:4/27/2019 10-03-00 AM:10/19/2016 12-00-00 AM
+48606547876:100010994737484:Ana:Klim:female:Plewiska:Plewiska:::1/1/0001 12-00-00 AM::::False:False:4/27/2019 10-05-18 AM:1/1/0001 12-00-00 AM
+48606603552:100008691578448:Radzis:El:male:Plewiska:Górczyn, Poznañ, Poland:Married::1/1/0001 12-00-00 AM::::False:False:4/27/2019 10-06-06 AM:1/1/0001 12-00-00 AM
+48606793604:765222729:Malwina:Mróz::Plewiska::::4/23/2019 12-00-00 AM::::False:False:4/27/2019 10-12-13 AM:9/5/2010 12-00-00 AM
+48607156246:100007492000474:Karolina:Przybylska:female:Plewiska:Wrzesnia:::1/1/0001 12-00-00 AM:::2007:False:False:4/27/2019 10-21-26 AM:1/1/0001 12-00-00 AM
+48607232049:100015298982572:Barbara:Gawrecka:female:Plewiska::::3/27/2019 12-00-00 AM::::False:False:4/27/2019 10-23-35 AM:2/5/2017 12-00-00 AM
+48607270222:100008435465620:Sandra:Cielejewska:female:Plewiska:Poznan, Poland:Married::12/31/2018 12-00-00 AM::::False:False:4/27/2019 10-24-11 AM:11/2/2014 12-00-00 AM
+48607274170:100006785493552:Marcin:Jankowiak:male:Plewiska:Wschowa:::4/7/2019 12-00-00 AM::::False:False:4/27/2019 10-24-11 AM:9/23/2013 12-00-00 AM
+48607275639:100007122603793:Pawe³:Ludek:male:Plewiska:Przezmierowo:Married:Olandia:4/23/2019 12-00-00 AM::01/26::False:False:4/27/2019 10-24-11 AM:8/6/2014 12-00-00 AM
+48607383774:1032189318:Jakub:Skoczyñski:male:Plewiska:Poznan, Poland::Drukma Drukarnia Skoczyñski:6/28/2018 12-00-00 AM::::False:False:4/27/2019 10-26-54 AM:9/11/2010 12-00-00 AM
+48607541795:100002053084738:Przemys³aw:Bia³ecki:male:Plewiska:£ódŸ, Poland:Married:DHL Express:4/20/2019 12-00-00 AM:::1993:False:False:4/27/2019 10-30-24 AM:1/16/2011 12-00-00 AM
+48607567375:100001680888809:Marzena:Buczkowska:female:Plewiska:Bobolice:::4/20/2019 12-00-00 AM::::False:False:4/27/2019 10-30-57 AM:10/20/2010 12-00-00 AM
+48607630657:100001945577667:Robert:B³oszyk:male:Plewiska:Poznan, Poland::Piotrowski Music:8/13/2018 12-00-00 AM:::1992:False:False:4/27/2019 10-32-48 AM:2/17/2011 12-00-00 AM
+48607661860:100009090201290:Tomasz:Szczublewski:male:Plewiska::::12/24/2018 12-00-00 AM::::False:False:4/27/2019 10-33-31 AM:2/17/2015 12-00-00 AM
+48607665594:1684695284:Joanna:Jakubowicz:female:Plewiska:Poznan, Poland:::4/6/2019 12-00-00 AM::::False:False:4/27/2019 10-33-56 AM:9/11/2010 12-00-00 AM
+48608102167:100005270924164:Daria:Uzarewicz:female:Plewiska:Poznan, Poland:::8/20/2017 12-00-00 AM::::False:False:4/27/2019 10-43-59 AM:2/20/2013 12-00-00 AM
+48608361009:100000459322014:Michal:Barczyk:male:Plewiska:Koszalin:::7/31/2017 12-00-00 AM::::False:False:4/27/2019 10-50-19 AM:4/20/2011 12-00-00 AM
+48608414466:100027623718167:Dorota:Mocarska:female:Plewiska::Married:SZPITAL KLINICZNY im. Karola Jonschera:3/21/2019 12-00-00 AM::::False:False:4/27/2019 10-52-48 AM:7/30/2018 12-00-00 AM
+48608463927:100000617862281:£ukasz:Broda:male:Plewiska:Plewiska:::4/20/2019 12-00-00 AM::::False:False:4/27/2019 10-54-25 AM:9/16/2010 12-00-00 AM
+48608488627:100003993607760:Elzbieta:Kulig:female:Plewiska:Poznan, Poland:::7/24/2018 12-00-00 AM::::False:False:4/27/2019 10-55-36 AM:8/25/2013 12-00-00 AM
+48608495245:100014303773222:Mariola:Sar:female:Plewiska::Married::4/13/2019 12-00-00 AM::::False:False:4/27/2019 10-55-30 AM:9/19/2017 12-00-00 AM
+48608626210:100033722660855:Ryszard:Dudziec:male:Poznan, Poland:Plewiska:Married::3/8/2019 12-00-00 AM::::False:False:4/27/2019 11-00-44 AM:2/11/2019 12-00-00 AM
+48608646304:100004437667133:Marek:Paradowski:male:Plewiska:Góra::Comarch S.A.:4/27/2019 12-00-00 AM::::False:False:4/27/2019 10-59-50 AM:9/19/2012 12-00-00 AM
+48608650680:100003723224199:Krzysztof:Smykaj:male::Plewiska:::1/27/2019 12-00-00 AM::::False:False:4/27/2019 11-00-04 AM:6/4/2014 12-00-00 AM
+48608658024:100006883755834:Krystian:Fr¹ckowiak:male:Plewiska:Plewiska:::1/1/0001 12-00-00 AM::::False:False:4/27/2019 11-00-21 AM:1/1/0001 12-00-00 AM
+48608771572:602499710:Monika:Lasota:female:Plewiska:Poznan, Poland:Married:Port Lotniczy Poznañ-£awica im. Henryka Wieniawskiego:3/28/2019 12-00-00 AM::::False:False:4/27/2019 11-04-18 AM:9/30/2010 12-00-00 AM
+48609099311:100004143246213:Izabela:M¹czyñska:female:Plewiska:Poznan, Poland:Married::10/18/2018 12-00-00 AM::::False:False:4/27/2019 11-07-37 AM:6/2/2013 12-00-00 AM
+48609737748:100034602724218:Monia:Monia:female:Plewiska:Poznan, Poland:::4/6/2019 12-00-00 AM::::False:False:4/27/2019 11-23-56 AM:3/3/2019 12-00-00 AM
+48609802330:100000673575616:Marta:Przyby³a:female:Plewiska::::3/7/2019 12-00-00 AM::::False:False:4/27/2019 11-25-36 AM:9/16/2010 12-00-00 AM
+48609883471:100004194332946:Jerzy:Paw³owski:male:Plewiska:Poznan, Poland:::8/13/2012 12-00-00 AM::::False:False:4/27/2019 11-27-08 AM:8/13/2012 12-00-00 AM
+48660404715:100001539512638:Micha³:Kut:male:Plewiska:Poznan, Poland:Married::4/21/2019 12-00-00 AM::::False:False:4/26/2019 6-50-40 AM:11/13/2010 12-00-00 AM
+48660572062:100000776688260:Karolina:Kusterka:female:Poznan, Poland:Brusy:Married:Szko³a Podstawowa nr 2 w Plewiskach:1/27/2019 12-00-00 AM::::False:False:4/26/2019 6-56-24 AM:9/16/2010 12-00-00 AM
+48660682210:100001192178553:Maria:Chmielowska::Kraków, Poland:Plewiska:::10/8/2016 12-00-00 AM::::False:False:4/26/2019 6-58-11 AM:10/10/2010 12-00-00 AM
+48660689802:100000670562104:Daniela:Winiecka:female:Plewiska:Poznan, Poland:::4/8/2019 12-00-00 AM::::False:False:4/26/2019 6-58-40 AM:9/3/2010 12-00-00 AM
+48660751407:1451959992:Natalia:Wieczorek:female:Plewiska::::3/15/2019 12-00-00 AM::::False:False:4/26/2019 7-01-06 AM:9/4/2010 12-00-00 AM
+48662110353:100003284234866:Magdalena:Brochocka:female:Plewiska:Poznan, Poland:::4/23/2019 12-00-00 AM::::False:False:4/26/2019 7-25-59 AM:3/13/2016 12-00-00 AM
+48662118502:100006029224351:Marek:Anio³a:male:Plewiska:Poznan, Poland:Married::3/28/2019 12-00-00 AM::::False:False:4/26/2019 7-27-04 AM:5/31/2013 12-00-00 AM
+48662198705:100003080153625:Emilia:Szaj:female:Plewiska:Poznan, Poland:Married::11/11/2018 12-00-00 AM::::False:False:4/26/2019 7-27-47 AM:10/25/2011 12-00-00 AM
+48663097193:100001222042563:Monika:Adamczyk:female:Plewiska:Tarnówka, Pila, Poland:Married::4/25/2019 12-00-00 AM::::False:False:4/26/2019 7-36-42 AM:3/25/2011 12-00-00 AM
+48663114580:100003041557025:Piotr:Kaczyñski:male:Plewiska:Plewiska:::3/4/2017 12-00-00 AM::::False:False:4/26/2019 7-37-12 AM:1/12/2012 12-00-00 AM
+48663267493:100008218747370:Marta:Kluska:female:Plewiska:Julkowo:Engaged:Elzam Krynica:4/25/2019 12-00-00 AM::::False:False:4/26/2019 7-39-28 AM:4/22/2014 12-00-00 AM
+48663391831:100001650889833:Anna:Skrobak:female:Plewiska:Czarnotul:::7/31/2018 12-00-00 AM::::False:False:4/26/2019 7-41-39 AM:10/20/2010 12-00-00 AM
+48663484798:100001409523254:Agnieszka:Hibner:female:Plewiska:Poznan, Poland:Married::4/25/2019 12-00-00 AM::01/30/1982::False:False:4/26/2019 7-43-52 AM:8/23/2010 12-00-00 AM
+48663677339:100010790986688:Marzena:Golebiowska:female:Plewiska:Jarocin gmina:::3/23/2019 12-00-00 AM::::False:False:4/26/2019 7-47-21 AM:1/26/2016 12-00-00 AM
+48663762608:100001293715493:Da:Do::Plewiska:Plewiska:::8/26/2018 12-00-00 AM::08/26/1990::False:False:4/26/2019 7-49-26 AM:9/3/2010 12-00-00 AM
+48663837555:100004082994390:Marcin:Szczurowski:male:Plewiska:Pi³a:Married::2/10/2019 12-00-00 AM::::False:False:4/26/2019 7-50-49 AM:1/2/2018 12-00-00 AM
+48664154956:100002367228573:Hubert:Wojciechowski:male:Plewiska::::4/14/2019 12-00-00 AM::::False:False:4/26/2019 7-56-10 AM:4/28/2011 12-00-00 AM
+48664300362:100001257745405:Adam:Adamek:male:Plewiska:Poznan, Poland:In a relationship:Mc Donalds:8/12/2018 12-00-00 AM::::False:False:4/26/2019 7-58-46 AM:10/6/2010 12-00-00 AM
+48664771766:100004319526670:Marek:Smo³a:male:Plewiska:Dabcze:Married::4/1/2018 12-00-00 AM::::False:False:4/26/2019 8-03-49 AM:9/11/2012 12-00-00 AM
+48665241324:100002020212403:Sylwia:Stachowiak::Plewiska:Poznan, Poland:::4/20/2019 12-00-00 AM::::False:False:4/26/2019 8-11-19 AM:4/21/2011 12-00-00 AM
+48665888435:100000476984033:Janusz:Œpiewakowski::Plewiska:Poznan, Poland:::4/24/2019 12-00-00 AM::::False:False:4/27/2019 8-50-10 AM:9/15/2010 12-00-00 AM
+48665956275:100020480193362:Michal:Nejman:male:Plewiska:Plewiska:::1/5/2019 12-00-00 AM::::False:False:4/27/2019 8-50-48 AM:7/26/2017 12-00-00 AM
+48666346386:100009684580539:Jacek:Ratajczak:male:Plewiska:Poznan, Poland:It's complicated::4/27/2019 12-00-00 AM::::False:False:4/27/2019 8-54-25 AM:6/7/2015 12-00-00 AM
+48666969312:100003905555841:Jakub:Zió³kowski:male:Plewiska:Plewiska:::10/25/2018 12-00-00 AM::::False:False:4/27/2019 8-59-14 AM:5/23/2012 12-00-00 AM
+48667004101:100004421914509:Izabela:Bielawska Schneider:female:Plewiska:Poznan, Poland:In a relationship::2/19/2019 12-00-00 AM::::False:False:4/27/2019 8-59-24 AM:8/29/2014 12-00-00 AM
+48667142491:100002570080320:Hubert:Zarêbski:male:Plewiska:Plewiska:Single::4/18/2019 12-00-00 AM::::False:False:4/27/2019 9-01-50 AM:6/27/2011 12-00-00 AM
+48667194244:100001919591742:Sylwia:Lorens:female:Poznan, Poland:Plewiska:In a relationship:McDonald's:4/22/2019 12-00-00 AM::::False:False:4/27/2019 9-02-44 AM:1/13/2011 12-00-00 AM
+48667197371:100001911506323:Marcin:Rutkowski::Plewiska:Poznan, Poland::Poczta Polska S.A.:2/9/2019 12-00-00 AM::::False:False:4/27/2019 9-02-44 AM:4/9/2011 12-00-00 AM
+48667357499:1168441782:Katarzyna:Kida-Sza³añska:female:Plewiska::::11/14/2011 12-00-00 AM::::False:False:4/27/2019 9-05-34 AM:9/2/2010 12-00-00 AM
+48667536856:100008098266669:Kinga:Krych:female:Plewiska:Poznan, Poland:::4/5/2019 12-00-00 AM::::False:False:4/27/2019 9-07-50 AM:4/2/2014 12-00-00 AM
+48667594066:100024118389549:Jacek:Pi¹tkowski:male:Plewiska::::5/27/2018 12-00-00 AM::::False:False:4/27/2019 9-08-23 AM:1/23/2018 12-00-00 AM
+48668209363:100001550694049:Aleksandra:Moder:female:Plewiska:Barlinek::Netto:3/10/2019 12-00-00 AM::::False:False:4/27/2019 9-18-30 AM:9/7/2010 12-00-00 AM
+48668235033:100000630264240:Tomasz:Fi:male:Plewiska:Swarzedz:Married::4/22/2019 12-00-00 AM::06/01/1981::False:False:4/27/2019 9-19-12 AM:9/5/2010 12-00-00 AM
+48668487008:100000834832412:Anna:Brodziñska:female:Plewiska:Lubon:::4/19/2019 12-00-00 AM:::2004:False:False:4/27/2019 9-24-29 AM:9/8/2010 12-00-00 AM
+48668511711:100002388773805:Justyna:Dykszak:female:Plewiska:Dychów:Married::1/23/2019 12-00-00 AM::::False:False:4/27/2019 9-24-49 AM:5/31/2011 12-00-00 AM
+48668833232:100002818849885:Tomasz:Matusiak:male:Plewiska:Poznan, Poland:Married:31 BLT POZNAÑ KRZESINY:8/27/2017 12-00-00 AM::::False:False:4/27/2019 9-28-21 AM:1/21/2013 12-00-00 AM
+48669016808:1772903728:Ma³gosia:Kluska:female:Plewiska:Sieradz::Archik¹ty - Projektowanie Wnêtrz:3/23/2018 12-00-00 AM::::False:False:4/27/2019 9-30-51 AM:9/2/2010 12-00-00 AM
+48669218035:100002438916795:S³awek:Wiechecz:male:Plewiska:Poznan, Poland:Engaged::4/15/2019 12-00-00 AM::::False:False:4/27/2019 9-33-10 AM:6/6/2011 12-00-00 AM
+48669612708:100001900819592:Kinga:Wilandt:female:Plewiska:Plewiska:Married:NOEX:3/2/2019 12-00-00 AM::::False:False:4/27/2019 9-38-35 AM:11/25/2010 12-00-00 AM
+48669758034:100002325410251:Paulina:Miko³ajczyk:female:Plewiska::Married::3/29/2019 12-00-00 AM::::False:False:4/27/2019 9-40-24 AM:4/29/2011 12-00-00 AM
+48690316144:100007462081758:Maksymilian:Wawrzyniak:male:Plewiska:Poznan, Poland:::9/2/2018 12-00-00 AM::::False:False:4/26/2019 5-26-29 AM:12/26/2013 12-00-00 AM
+48691070614:100000761386162:Sebastian:Malicki:male:Plewiska:Poznan, Poland:Married:Aqua-Calore Gaz:4/15/2019 12-00-00 AM::::False:False:4/26/2019 5-32-21 AM:4/23/2011 12-00-00 AM
+48691224653:100001496085774:Hanna:Mizgalska:female:Plewiska::::9/3/2010 12-00-00 AM::::False:False:4/26/2019 5-35-09 AM:8/31/2010 12-00-00 AM
+48691462254:100003126237284:Kasia:Piechowiak:female:Plewiska:Plewiska:In a relationship::4/13/2019 12-00-00 AM::::False:False:4/26/2019 5-39-12 AM:11/28/2011 12-00-00 AM
+48691702274:100006536829725:Justyna:Barañska:female:Poznan, Poland:Plewiska:Married::3/26/2019 12-00-00 AM::::False:False:4/26/2019 5-43-31 AM:8/25/2013 12-00-00 AM
+48691865550:100002746029379:Aleksandra:Wiland-Chudy:female:Plewiska:Poznan, Poland:Married::1/15/2019 12-00-00 AM::::False:False:4/26/2019 5-47-20 AM:8/1/2011 12-00-00 AM
+48692041082:100010715534084:Waldemar:Niedzielski:male:Plewiska:Poznan, Poland:In a relationship:Pomoc Drogowa:4/18/2019 12-00-00 AM::::False:False:4/26/2019 5-50-18 AM:6/29/2016 12-00-00 AM
+48693495600:100000088923076:Agnieszka:Wiêcek:female::Skrobotowo::Szko³a Podstawowa im. Tytusa i Jana Dzia³yñskich w Plewiskach:4/1/2019 12-00-00 AM::::False:False:4/26/2019 6-14-44 AM:9/4/2010 12-00-00 AM
+48693600279:100003249730800:Miko³aj:Wiñski:male:Plewiska:Görlitz:::1/23/2019 12-00-00 AM::::False:False:4/26/2019 6-16-38 AM:12/11/2011 12-00-00 AM
+48694002761:100000634985535:Micha³:Górecki:male:Plewiska:Poznan, Poland::FORCOM:4/20/2016 12-00-00 AM:::2001:False:False:4/26/2019 6-24-38 AM:9/1/2010 12-00-00 AM
+48694206955:100033160813930:Ewelina:Zimna:female:Plewiska:Wiecbork:::4/17/2019 12-00-00 AM::::False:False:4/26/2019 6-26-25 AM:1/22/2019 12-00-00 AM
+48694345830:100001654828699:Patryk:Jankowski:male:Plewiska::Married:IVNE Wysogotowo:4/21/2019 12-00-00 AM::10/23::False:False:4/26/2019 6-27-43 AM:12/22/2010 12-00-00 AM
+48694686820:100001865702070:Agata:Dranikowska:female:Plewiska:S³upca:::8/8/2016 12-00-00 AM::::False:False:4/26/2019 6-33-05 AM:12/25/2015 12-00-00 AM
+48695145220:100005605920465:Krystyna:Nowicka:female:Plewiska::Married::4/2/2019 12-00-00 AM::::False:False:4/26/2019 6-38-18 AM:1/12/2014 12-00-00 AM
+48695146054:100003779743419:Ewa:Jakubowska:female:Plewiska:Bydgoszcz, Poland::Carrefour (groupe):2/3/2019 12-00-00 AM:::2004:False:False:4/26/2019 6-38-18 AM:4/24/2012 12-00-00 AM
+48695296278:100001757377557:Marta:Turkot:female:Plewiska:Grzebiensko, Poznañ, Poland:Married::4/24/2019 12-00-00 AM::::False:False:4/26/2019 6-40-50 AM:10/26/2010 12-00-00 AM
+48695307934:100001414165717:Monika:F-ka:female:Plewiska:Plewiska:::11/24/2018 12-00-00 AM::::False:False:4/26/2019 6-43-09 AM:9/11/2010 12-00-00 AM
+48695544097:100001884026382:Mariusz:Tomiak:male:Plewiska:Poznan, Poland:Married:MariCom:4/20/2019 12-00-00 AM:::2006:False:False:4/26/2019 6-45-31 AM:11/30/2010 12-00-00 AM
+48695744854:1000075076:Justyna:Korcz-Szal:female:Plewiska::::3/5/2019 12-00-00 AM::::False:False:4/27/2019 7-59-50 AM:9/3/2010 12-00-00 AM
+48696063800:100008878754457:Agnieszka:Nowak:female:Plewiska:Plewiska:::1/17/2015 12-00-00 AM::::False:False:4/27/2019 8-06-02 AM:1/17/2015 12-00-00 AM
+48696081757:100000688293358:Tomasz:Komorek:male:Plewiska:Nowogard::Olympic Shipping:2/26/2019 12-00-00 AM::::False:False:4/27/2019 8-06-37 AM:8/25/2010 12-00-00 AM
+48696200835:100000421020762:Karolina:Moskalik:female:Plewiska:Poznan, Poland:Married::4/7/2019 12-00-00 AM::::False:False:4/27/2019 8-08-08 AM:9/2/2010 12-00-00 AM
+48696332559:100000526425559:£ukasz:Fabijañski:male:Poznan, Poland:Plewiska:::4/21/2019 12-00-00 AM::::False:False:4/27/2019 8-09-31 AM:9/12/2010 12-00-00 AM
+48697156560:1106041804:Andrzej:Jezierski:male:Plewiska:Kostrzyn nad Odra:Married::3/26/2019 12-00-00 AM::::False:False:4/27/2019 8-21-22 AM:9/1/2010 12-00-00 AM
+48697691796:100001518238828:Paulina:Pastuszka:female:Plewiska:Kielce, Poland::Rejonowa Stacja Pogotowia Ratunkowego:1/20/2019 12-00-00 AM:::2005:False:False:4/27/2019 8-29-32 AM:1/2/2011 12-00-00 AM
+48697693205:100004302396531:Mariusz:Zydel:male:Plewiska:Rypin::Remmers Gruppe AG:7/29/2018 12-00-00 AM:::2004:False:False:4/27/2019 8-29-32 AM:9/2/2012 12-00-00 AM
+48697997664:100024525083705:Adrian:Banda:male:Gorzewo, Pila, Poland:Plewiska:::3/30/2019 12-00-00 AM::::False:False:4/27/2019 8-33-29 AM:2/25/2018 12-00-00 AM
+48698098558:100015730302401:Filip:Matusiak:male:Plewiska:Poznan, Poland:::8/14/2018 12-00-00 AM::::False:False:4/27/2019 8-34-39 AM:3/30/2017 12-00-00 AM
+48698612683:100001939413626:Damian:Józefiak::Plewiska:Poznan, Poland:::11/11/2018 12-00-00 AM::::False:False:4/27/2019 8-38-49 AM:1/8/2011 12-00-00 AM
+48698720115:100001245668980:Adam:Domagalski:male:Plewiska:Plewiska:::9/25/2017 12-00-00 AM::::False:False:4/27/2019 8-41-51 AM:8/20/2010 12-00-00 AM
+48698991896:571334586:Pawe³:Doleciñski:male:Plewiska:Koszalinskie, Zachodniopomorskie, Poland:::4/27/2019 12-00-00 AM::::False:False:4/27/2019 8-44-40 AM:9/30/2010 12-00-00 AM
+48720825421:100002068923700:Peter:Seal:male:Plewiska:Basingstoke:Married:Self-Employed:6/12/2018 12-00-00 AM::::False:False:4/26/2019 4-40-55 AM:2/11/2011 12-00-00 AM
+48721519254:100002717461146:Szymon:Gmerek:male:Plewiska:Poznan, Poland:Single:Kuehne+Nagel:12/30/2018 12-00-00 AM::::False:False:4/26/2019 4-48-47 AM:2/22/2017 12-00-00 AM
+48721565158:100001605363567:Daria:Wójt:female:Plewiska::Married::4/25/2019 12-00-00 AM:::2006:False:False:4/26/2019 4-49-12 AM:9/12/2010 12-00-00 AM
+48723837222:100003053749776:Monika:S³owik:female:Plewiska::Married::2/8/2019 12-00-00 AM::::False:False:4/26/2019 5-04-21 AM:10/18/2011 12-00-00 AM
+48724343938:100001516153089:Miko³aj:Adamczak:male:Plewiska:Poznan, Poland:Married::2/10/2019 12-00-00 AM::::False:False:4/26/2019 5-09-21 AM:8/27/2010 12-00-00 AM
+48724544615:100000564031655:Daria:Poniedzia³ek:female:Plewiska:Srem, Poland:::3/6/2019 12-00-00 AM::::False:False:4/26/2019 5-11-22 AM:8/25/2010 12-00-00 AM
+48725008738:100035035302818:Teresa:Strykowska:female:Poznan, Poland:Plewiska:Married::3/25/2019 12-00-00 AM::::False:False:4/26/2019 5-16-31 AM:3/24/2019 12-00-00 AM
+48725206082:100002378041925:Marta:Szumnarska:female:Plewiska:Poznan, Poland:::4/1/2018 12-00-00 AM::::False:False:4/26/2019 5-17-44 AM:5/28/2011 12-00-00 AM
+48726189115:100001951517625:Jakub:Libera:male:Plewiska:Poznan, Poland:Single::5/29/2018 12-00-00 AM::05/14/1997::False:False:4/26/2019 3-34-50 AM:1/20/2011 12-00-00 AM
+48727433272:100000354556469:Micha³:Kowalewski:male:Plewiska:Wielen Po³nocny, Pila, Poland::Nokia:3/21/2019 12-00-00 AM::::False:False:4/26/2019 3-41-46 AM:9/5/2010 12-00-00 AM
+48728559955:100023723573381:Ernest:WoŸniak:male:Plewiska:Plewiska:Single::10/20/2018 12-00-00 AM::::False:False:4/26/2019 3-49-27 AM:1/3/2018 12-00-00 AM
+48728954752:100004358494495:Marcin:KuŸmicki:male:Plewiska:Wierzchowice, Legnica, Poland::Self-Employed:4/6/2019 12-00-00 AM::::False:False:4/26/2019 3-53-46 AM:11/7/2013 12-00-00 AM
+48781028580:100003986424717:Joanna:Szczurowska:female:Plewiska:Janowiec Wielkopolski:Married::1/1/0001 12-00-00 AM::::False:False:4/26/2019 3-59-10 AM:1/1/0001 12-00-00 AM
+48781749566:100003365369278:Agnieszka:Andryszewska:female:Plewiska:Buk:Married:Misie Tulisie:4/1/2019 12-00-00 AM::::False:False:4/26/2019 4-05-20 AM:1/30/2012 12-00-00 AM
+48782348297:100003640521184:Robert:Miko³ajczyk:male:Plewiska:Poznan, Poland:::1/5/2019 12-00-00 AM::::False:False:4/26/2019 4-10-38 AM:3/16/2012 12-00-00 AM
+48782436253:100004464784569:Bartosz:Kamiñski:male:Plewiska:Jastrowie:::11/29/2017 12-00-00 AM::::False:False:4/26/2019 4-11-14 AM:10/3/2012 12-00-00 AM
+48782690366:100004392251980:Kamila:Ksl:female:Plewiska::::11/28/2018 12-00-00 AM::::False:False:4/26/2019 4-12-46 AM:9/28/2012 12-00-00 AM
+48782712529:100029059481149:Patryk:B³aszczyk:male:Poznan, Poland:Gniezno, Poland:Married:Centrum Logistyczne ¯abka Polska w Plewiskach:3/27/2019 12-00-00 AM::::False:False:4/26/2019 4-13-03 AM:10/8/2018 12-00-00 AM
+48783757753:100000530550289:Paulina:Pa³asz:female:Plewiska:Ziemiecin, Konin, Poland:::4/14/2019 12-00-00 AM::::False:False:4/26/2019 4-21-52 AM:9/2/2010 12-00-00 AM
+48784012710:100002532812931:Marta:Cibor:female:Plewiska:Kutno:In a relationship::6/19/2017 12-00-00 AM::10/03/1992::False:False:4/26/2019 4-25-07 AM:5/29/2011 12-00-00 AM
+48784431924:100025377049246:Krzysztof:Skibinski:male:Plewiska:Stare Miasto, Poznañ, Poland:::3/27/2019 12-00-00 AM::::False:False:4/26/2019 4-29-39 AM:4/15/2018 12-00-00 AM
+48784653007:100002956331511:Aleksandra:£abêcka:female:Plewiska:Szczecinek:In a relationship:Castorama Polska:4/23/2019 12-00-00 AM::::False:False:4/26/2019 4-32-10 AM:9/23/2011 12-00-00 AM
+48785042824:100002353040286:Krzysztof:Ciszek:male:Plewiska:Poznan, Poland:Married:Inter Cars SA:4/6/2019 12-00-00 AM::::False:False:4/26/2019 4-34-50 AM:4/29/2011 12-00-00 AM
+48785471267:100001073451833:Wojciech:Kromski:male:Plewiska:Poznan, Poland:Single::12/15/2017 12-00-00 AM::07/14/1996::False:False:4/26/2019 4-38-19 AM:9/11/2010 12-00-00 AM
+48785900538:100000102948864:Maciej:P³oñski:male:Plewiska:Swinoujscie:::11/12/2018 12-00-00 AM::::False:False:4/26/2019 3-11-12 AM:4/20/2011 12-00-00 AM
+48785979440:100001125340270:Maciej:Nowak:male:Plewiska:Poznan, Poland:Divorced::4/25/2019 12-00-00 AM:::1996:False:False:4/26/2019 3-12-18 AM:10/6/2010 12-00-00 AM
+48788152117:100001881152081:Weronika:Nawrocka:female:Poznan, Poland:Pleszew:In a relationship:Szko³a Podstawowa nr 2 w Plewiskach:7/28/2018 12-00-00 AM::::False:False:4/26/2019 3-21-52 AM:11/10/2010 12-00-00 AM
+48788560767:100001567827837:Gabinet Logopedyczny:Monika Filipek::Plewiska:Be³chatów::Logopeda Plewiska:6/27/2018 12-00-00 AM::::False:False:4/26/2019 3-24-07 AM:1/6/2011 12-00-00 AM
+48789151783:100013382617958:Oliwia:Szwarc:female:Plewiska:Poznan, Poland:Single::4/24/2019 12-00-00 AM::::False:False:4/26/2019 3-27-01 AM:9/3/2016 12-00-00 AM
+48790377995:100012554561350:Julia:Kiersk:female:Plewiska::::3/29/2019 12-00-00 AM::::False:False:4/27/2019 6-58-13 AM:6/21/2016 12-00-00 AM
+48790525110:100000768757860:Monika:Spycha³a:female:Plewiska::::3/25/2019 12-00-00 AM::::False:False:4/27/2019 7-00-06 AM:9/12/2010 12-00-00 AM
+48790597971:100024939202680:Maciej:Plutecki:male:Plewiska:Ko³o:::1/20/2019 12-00-00 AM::::False:False:4/27/2019 7-01-05 AM:3/22/2018 12-00-00 AM
+48790690418:100010291921340:El¿bieta:Ostrowska:female:Plewiska:Drawsko Pomorskie:Married::1/6/2019 12-00-00 AM::::False:False:4/27/2019 7-02-33 AM:11/25/2015 12-00-00 AM
+48790853252:100002178070795:£ukasz:Stacherski::Plewiska:Witkowo:::8/14/2018 12-00-00 AM::::False:False:4/27/2019 7-04-22 AM:4/26/2011 12-00-00 AM
+48791327373:100001986529310:Joanna:Ko:female:Plewiska:Poznan, Poland:::4/25/2019 12-00-00 AM::::False:False:4/27/2019 7-08-51 AM:2/26/2011 12-00-00 AM
+48791333519:100000739883868:Mariusz:Grodzki:male:Plewiska:Poznan, Poland:Married:POZNAN-AUCHAN:1/16/2019 12-00-00 AM::::False:False:4/27/2019 7-09-05 AM:4/21/2011 12-00-00 AM
+48791841666:100000522536115:MarDu:Duchol:male:Plewiska:Srem, Poland:In a relationship:WSPR Poznañ:4/9/2019 12-00-00 AM::::False:False:4/27/2019 7-14-36 AM:9/5/2010 12-00-00 AM
+48791928338:100001352078749:Magdalena Dariusz:Hêsio:female:Plewiska:Poznan, Poland:::4/6/2019 12-00-00 AM::03/23::False:False:4/27/2019 7-16-06 AM:8/24/2010 12-00-00 AM
+48792235241:515963793:Daniel:Ganska:male:Plewiska:Szamotu³y:Married:Urz¹d skarbowy w Szamotu³ach:4/14/2019 12-00-00 AM:::2004:False:False:4/27/2019 7-21-55 AM:9/1/2010 12-00-00 AM
+48792555870:100001447980852:Joanna:El:female:Plewiska:Kostrzyn::Biuro projektowe:7/10/2018 12-00-00 AM::::False:False:4/27/2019 7-25-07 AM:8/25/2010 12-00-00 AM
+48792579438:100000622345224:Lukasz:Zebrowski:male:Plewiska:Pisz:In a relationship:AWOS:2/18/2019 12-00-00 AM:::2005:False:False:4/27/2019 7-25-35 AM:9/16/2010 12-00-00 AM
+48793631783:100002094315757:Jakub:Guzikowski:male:Plewiska:Poznan, Poland::Salony Agata:4/20/2019 12-00-00 AM::::False:False:4/27/2019 7-39-34 AM:4/21/2011 12-00-00 AM
+48793906096:100002026895155:Agnieszka:Wilko³ek:female:Plewiska:Poznan, Poland:Married::4/24/2019 12-00-00 AM::::False:False:4/27/2019 7-43-03 AM:1/19/2011 12-00-00 AM
+48794165796:612098549:Anna:Akuszewska::Plewiska:::Millennium Bank:4/8/2019 12-00-00 AM:::2004:False:False:4/27/2019 7-45-27 AM:9/3/2010 12-00-00 AM
+48794650010:100005016693390:Krzysztof:Adamczak:male:Plewiska:Wolsztyn::Z niewyjaœnionych przyczyn zajmujê siê niczym:7/6/2018 12-00-00 AM::::False:False:4/27/2019 7-49-10 AM:1/12/2013 12-00-00 AM
+48795777010:100001749245276:Marcin:Plonka:male:Plewiska:Poznan, Poland::PUK Komorniki:3/8/2019 12-00-00 AM:::1995:False:False:4/26/2019 2-37-15 AM:12/6/2010 12-00-00 AM
+48796008755:100013488580055:Igor:Ko³powski:male:Plewiska:Plewiska::Szlachta nie pracuje:11/1/2018 12-00-00 AM::::False:False:4/26/2019 2-39-08 AM:9/16/2016 12-00-00 AM
+48796515339:100001545880564:Adam:Sawada:male:Poznan, Poland:Pleszew:Married:Centrum Logistyczne ¯abka Polska w Plewiskach:12/29/2017 12-00-00 AM::::False:False:4/26/2019 2-44-19 AM:8/25/2010 12-00-00 AM
+48796729044:100023760406125:Hania:Nowacka:female:Plewiska::::1/1/0001 12-00-00 AM::::False:False:4/26/2019 2-46-52 AM:1/1/0001 12-00-00 AM
+48796835599:100007060307533:Przemys³aw:Konieczny:male:Plewiska::::4/6/2019 12-00-00 AM::::False:False:4/26/2019 2-48-38 AM:8/30/2014 12-00-00 AM
+48797558598:100024586037494:Ruslan:Trytsetskyi:male:Plewiska:Dobromil, L'Vivs'Ka Oblast', Ukraine:In a relationship:„Szlachta nie pracuje”:10/22/2018 12-00-00 AM::::False:False:4/26/2019 2-54-46 AM:2/26/2018 12-00-00 AM
+48798062020:100027131551118:Teresa:Gajewy:female:Poznan, Poland:Plewiska:::12/12/2018 12-00-00 AM::::False:False:4/26/2019 2-58-02 AM:9/3/2018 12-00-00 AM
+48798335225:100002023634873:Anita:Guzek:female::Plewiska:Married:Bistro Pieprz i Sól:1/28/2019 12-00-00 AM::08/31/1991::False:False:4/26/2019 3-00-08 AM:1/28/2011 12-00-00 AM
+48881230252:100010703131441:Igor:Czerniawski:male:Plewiska:::Elektrownia j¹drowa w Czarnobylu:1/10/2019 12-00-00 AM::::False:False:4/26/2019 8-50-35 PM:11/10/2015 12-00-00 AM
+48881373676:100002301604953:Maciej:Si:male:Plewiska:Czempin:Married::4/20/2019 12-00-00 AM::::False:False:4/26/2019 8-54-56 PM:11/28/2012 12-00-00 AM
+48883092676:100003805568383:Aleksandra:Florkowska:female:Plewiska:Poznan, Poland:::1/22/2019 12-00-00 AM::::False:False:4/26/2019 9-24-59 PM:5/3/2012 12-00-00 AM
+48884111888:100000777132298:Wojciech:Kowalski:male:Plewiska:Kruszwica::alkotester.pl:3/9/2019 12-00-00 AM:::2007:False:False:4/26/2019 9-57-41 PM:9/5/2010 12-00-00 AM
+48884703525:100019184343527:Hania:Bobkowicz:female:Plewiska:Plewiska:::4/20/2019 12-00-00 AM::::False:False:4/26/2019 10-04-58 PM:7/5/2017 12-00-00 AM
+48885313481:100003713806120:Wiktoria:Hutt::Plewiska:Lubin:Single::12/9/2018 12-00-00 AM::::False:False:4/26/2019 10-14-59 PM:3/31/2012 12-00-00 AM
+48886491464:100011038532677:Wies³aw:Mielcarek:male:Jelenia Góra:Plewiska:::1/5/2019 12-00-00 AM::::False:False:4/27/2019 4-17-18 AM:1/2/2016 12-00-00 AM
+48887231913:100003721036657:Szymon:Krzy¿añski:male:Plewiska:Inowroc³aw:Married:Cinema City Poznañ Plaza, Orange IMAX Poznañ:2/19/2019 12-00-00 AM::::False:False:4/27/2019 4-20-30 AM:3/31/2012 12-00-00 AM
+48887999200:100016542096727:Reksio:Pawel:male:Plewiska:Poznan, Poland:Single:Grom Plewiska:2/25/2019 12-00-00 AM::::False:False:4/27/2019 4-22-12 AM:4/18/2017 12-00-00 AM
+48889449149:100004502312559:Joanna:Typek:female:Plewiska:Cz³uchow:::4/21/2019 12-00-00 AM::::False:False:4/27/2019 4-30-59 AM:4/12/2015 12-00-00 AM
