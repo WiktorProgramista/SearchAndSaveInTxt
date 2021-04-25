@@ -15,6 +15,8 @@ with open(location1, "r", encoding='utf-8') as file1:
             if what in line:
                 file2.writelines(line)
                 print(line + "\n")
+            else:
+                print("Nie znaleziono ", what, "w pliku ", location1) 
 
 
 
